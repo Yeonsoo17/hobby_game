@@ -247,7 +247,7 @@ nav ul li a {
 
 /*  스위치, 보드게임, 카트라이더, 어몽어스 */
 .box1 {
-    display: inline-block;
+    display: flex;
     justify-content: center;
     margin: 5% 0;
     align-items: center;
